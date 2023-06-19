@@ -1,0 +1,11 @@
+.movie-section {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+  }
+  
+  mat-card {
+    margin-right: 10px;
+  }
+  
